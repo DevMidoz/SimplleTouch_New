@@ -116,11 +116,16 @@ const translations = {
         Exhibitions: "Exhibtions",
         userMessage: "User Message",
         submit: "Submit",
+        world_Efficiency : "A World Of Efficiency",
+        Tailored_For_Your_Success : "Tailored For Your Success",
+        readMore : "Read More",
+        Loyalty_Pointing : "Loyalty & Pointing system to Acquire & segment customers data"
+
 
 
     },
     ar: {
-        home: "وطن",
+        home: "الرئيسية",
         english: "الإنكليزية",
         arabic: "العربية",
         getStarted: "ابدأ الآن",
@@ -225,7 +230,7 @@ const translations = {
         userPhone: "هاتف المستخدم",
         company: "شركة",
         None: "اي",
-        Word_of_Mouth: "ord f الفم",
+        Word_of_Mouth: "سمعت بها",
         Earlier_Customer: "عميل أرلير",
         Google_search: "البحث عن أوجل",
         SMS: "الرسائل القصيرة",
@@ -234,7 +239,11 @@ const translations = {
         Yellow_Pages: "صفحات ييلو",
         Exhibitions: "المعارض",
         userMessage: "رسالة المستخدم",
-        submit: "إرسال"
+        submit: "إرسال",
+        world_Efficiency : "عالم من الكفائة",
+        Tailored_For_Your_Success : "مصممة لنجاحك",
+        readMore : "اقرأ أكثر",
+        Loyalty_Pointing : "نظام الولاء والتأشير للحصول على بيانات العملاء وتقسيمها"
     },
 };
 

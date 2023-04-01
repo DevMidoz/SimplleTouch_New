@@ -646,8 +646,9 @@ window.onSelectLang = function onSelectLang(from) {
     }
     document.addEventListener("DOMContentLoaded", () => {
         const language = localStorage.getItem("lang") || "en"; // اذا لم تكن اللغة متوفرة استخدم الانجليزية
-      let dom = document.getElementsByTagName('html')
-       dom.setAttribute('dir', language === 'en' ? 'ltr' : 'rtl')
+    //   let dom = document.getElementsByTagName('html')
+    //    dom.setAttribute('dir', language === 'en' ? 'ltr' : 'rtl')
+    // document.body.style.textAlign = language === 'en' ? 'left' : 'right'
         document.getElementById("language-select-mobile").value = language
         document.getElementById("language-select").value = language
         setLanguage(language);
