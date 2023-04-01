@@ -219,7 +219,7 @@ jQuery(function ($) {
 
     $('.speaker').owlCarousel({
 
-        loop: false,
+        loop: true,
         margin: 20,
         slideSpeed: 5000,
         slideTransition: 'linear',
